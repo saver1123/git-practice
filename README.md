@@ -1,2 +1,2 @@
 # git-practice
-A repo for me to practice git operations.
+A repo for myself to practice git operations.
